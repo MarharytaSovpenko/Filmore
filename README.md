@@ -1,4 +1,4 @@
-# Cinema Service
+# Filmore
 
 An API service for cinema management written with DRF
 
@@ -15,7 +15,7 @@ An API service for cinema management written with DRF
 
 ### Install using GitHub:
 1. Run the command below in your terminal
-    - `git clone git@github.com:MarharytaSovpenko/Cinema-service.git`
+    - `git clone git@github.com:MarharytaSovpenko/Filmore.git`
 2. Open the project folder in your IDE
 3. If you are using PyCharm - it may propose you to automatically create venv for your project and install requirements
    in it, but if not:
